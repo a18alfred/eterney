@@ -1,0 +1,36 @@
+{
+  "short_name": "Eterney",
+  "name": "Eterney",
+  "description": "Eterney is a decentralized memory wall that honors loved ones who have passed.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "src": "assets/images/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "assets/images/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/images/logo256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "assets/images/logo384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "assets/images/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
